@@ -143,6 +143,8 @@ p {
     color: #ffffff;
 }
 
+/* I changed the styles below from classes to ids to match the changes I made in the html. */
+
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
